@@ -6,20 +6,20 @@
 
 ### Usecase Diagram:
 
-![Sơ đồ usecase](images/Use Case Model.bmp)
+![Sơ đồ usecase](./images/Use%20Case%20Model.bmp)
 
 ### Class Diagram:
 
-![Sơ đồ usecase](images/Class Diagram.bmp)
+![Sơ đồ usecase](images/Class%20Diagram.bmp)
 
 ### Component Diagram:
 
-![Sơ đồ usecase](images/Component Diagram.bmp)
+![Sơ đồ usecase](images/Component%20Diagram.bmp)
 
 ### Deployment Diagram:
 
-![Sơ đồ usecase](images/Deployment Diagram.bmp)
+![Sơ đồ usecase](images/Deployment%20Diagram.bmp)
 
 ### State Machine Diagram:
 
-![Sơ đồ usecase](images/State Machine.bmp)
+![Sơ đồ usecase](images/State%20Machine.bmp)
